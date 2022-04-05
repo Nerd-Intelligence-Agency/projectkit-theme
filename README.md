@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Short description. No more than 150 chars.
 
 == Description ==
-The IdeaKit main theme
+The ProjectKit main theme
 
 == Frequently Asked Questions ==
 
@@ -24,5 +24,3 @@ An answer to that question.
 * Initial Release
 
 == Resources ==
-* magnify.jpg © 2014 Jane Doe, CC0
-* supermenu.js © 2013-2015 James Today, MIT
